@@ -1,4 +1,6 @@
-#Face Attendance System
+#Face Attendance System#
+
+
 Overview
 The Face Attendance System is a project aimed at automating the process of marking attendance using facial recognition technology. With this system, users can easily mark their attendance by simply showing their faces to a camera. The system detects and recognizes faces, logs the attendance data, and stores it for future reference.
 
