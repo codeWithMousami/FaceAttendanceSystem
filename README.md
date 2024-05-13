@@ -2,24 +2,30 @@
 
 
 Overview
+
 The Face Attendance System is a project aimed at automating the process of marking attendance using facial recognition technology. With this system, users can easily mark their attendance by simply showing their faces to a camera. The system detects and recognizes faces, logs the attendance data, and stores it for future reference.
 
 Features
+
 Facial Recognition: Utilizes face recognition technology to identify individuals.
 Attendance Logging: Records attendance data including timestamps and user information.
 User-friendly Interface: Simple and intuitive interface for ease of use.
 Break Time Limit: Implements a 30-second break between attendance marks to prevent spamming.
 Installation
+
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/face-attendance-system.git
+
 Install dependencies:
+
 bash
 Copy code
 pip install -r requirements.txt
 Usage
+
 Run the main script:
+
 bash
 Copy code
 python main.py
